@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "entityIdentifier": "Podman_Upgarded_Legacy_Blocklist_1",
+        "entityType": "CVE",
+        "elementType": 0,
+        "scope": 2,
+        "environments": [
+            "B_Podman_Upgraded_Legacy",
+            "A_Podman_Upgraded_Legacy"
+        ]
+    },
+    {
+        "id": 3,
+        "entityIdentifier": "Podman_Upgarded_Legacy_Blocklist_2",
+        "entityType": "APPLICATION",
+        "elementType": 0,
+        "scope": 3,
+        "environments": [
+            "*"
+        ]
+    }
+]
