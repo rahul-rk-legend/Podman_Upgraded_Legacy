@@ -1,0 +1,34 @@
+[
+    {
+        "alias": null,
+        "id": 3,
+        "domain": "Podman_Upgraded_Legacy_Domain_1",
+        "environments": [
+            "B_Podman_Upgraded_Legacy",
+            "C_Podman_Upgraded_Legacy"
+        ],
+        "creationTimeUnixTimeInMs": 1772013265683,
+        "modificationTimeUnixTimeInMs": 1772021991609
+    },
+    {
+        "alias": null,
+        "id": 4,
+        "domain": "Podman_Upgraded_Legacy_Domain_2",
+        "environments": [
+            "A_Podman_Upgraded_Legacy",
+            "Default Environment"
+        ],
+        "creationTimeUnixTimeInMs": 1772021998302,
+        "modificationTimeUnixTimeInMs": 1772021998302
+    },
+    {
+        "alias": null,
+        "id": 5,
+        "domain": "Podman_Upgraded_Legacy_Domain_3",
+        "environments": [
+            "*"
+        ],
+        "creationTimeUnixTimeInMs": 1772022005059,
+        "modificationTimeUnixTimeInMs": 1772022005059
+    }
+]
