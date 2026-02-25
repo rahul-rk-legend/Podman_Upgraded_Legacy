@@ -1,0 +1,38 @@
+[
+    {
+        "entityIdentifier": "Podman_Upgraded_Custom_List_1",
+        "category": "URL",
+        "forDBMigration": false,
+        "environments": [
+            "C_Podman_Upgraded_Legacy",
+            "Default Environment",
+            "B_Podman_Upgraded_Legacy"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772013347364,
+        "modificationTimeUnixTimeInMs": 1772022028189
+    },
+    {
+        "entityIdentifier": "Podman_Upgraded_Custom_List_2",
+        "category": "Domain",
+        "forDBMigration": false,
+        "environments": [
+            "C_Podman_Upgraded_Legacy",
+            "A_Podman_Upgraded_Legacy"
+        ],
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1772022049197,
+        "modificationTimeUnixTimeInMs": 1772022049197
+    },
+    {
+        "entityIdentifier": "Podman_Upgraded_Custom_List_3",
+        "category": "Hostname",
+        "forDBMigration": false,
+        "environments": [
+            "*"
+        ],
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1772022063977,
+        "modificationTimeUnixTimeInMs": 1772022063977
+    }
+]
