@@ -1,0 +1,30 @@
+[
+    {
+        "type": 0,
+        "name": "Podman_Upgarded_Legacy_Email_Template_1",
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "creatorUserName": "94d5c90c-15ef-46a9-a378-34e3bb8005a1",
+        "forMigration": false,
+        "environments": [
+            "C_Podman_Upgraded_Legacy",
+            "Default Environment",
+            "B_Podman_Upgraded_Legacy"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772013456645,
+        "modificationTimeUnixTimeInMs": 1772022187283
+    },
+    {
+        "type": 0,
+        "name": "Podman_Upgraded_Legacy_Email_Template_2",
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "creatorUserName": "94d5c90c-15ef-46a9-a378-34e3bb8005a1",
+        "forMigration": false,
+        "environments": [
+            "*"
+        ],
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1772022212271,
+        "modificationTimeUnixTimeInMs": 1772022212271
+    }
+]
