@@ -12,7 +12,10 @@
             "Microsoft Azure Sentinel Incident Connector": "Adding a readme on",
             "VirusTotal - Livehunt Notifications Connector": "Adding a readme on"
         },
-        "Job": {}
+        "Job": {
+            "Sync Incidents": "Adding a readme on",
+            "Google Chronicle Sync Job": "Adding a readme on"
+        }
     },
     "settings": {
         "update_root_readme": true
