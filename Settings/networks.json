@@ -1,0 +1,38 @@
+[
+    {
+        "address": "192.168.0.3/1",
+        "name": "Podman_Upgraded_Legacy_Networks_1",
+        "priority": 1,
+        "environments": [
+            "C_Podman_Upgraded_Legacy",
+            "B_Podman_Upgraded_Legacy",
+            "A_Podman_Upgraded_Legacy"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772013213363,
+        "modificationTimeUnixTimeInMs": 1772021914454
+    },
+    {
+        "address": "192.168.0.2/1",
+        "name": "Podman_Upgraded_Legacy_Networks_2",
+        "priority": 4,
+        "environments": [
+            "B_Podman_Upgraded_Legacy",
+            "Default Environment"
+        ],
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1772021931309,
+        "modificationTimeUnixTimeInMs": 1772021931309
+    },
+    {
+        "address": "192.168.0.1/1",
+        "name": "Podman_Upgraded_Legacy_Networks_3",
+        "priority": 2,
+        "environments": [
+            "*"
+        ],
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1772021953231,
+        "modificationTimeUnixTimeInMs": 1772021953231
+    }
+]
