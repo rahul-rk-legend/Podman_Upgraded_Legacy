@@ -1,0 +1,72 @@
+[
+    {
+        "id": 5,
+        "valueType": 2,
+        "value": "[\"Phishing email detector\"]",
+        "slaPeriodType": 0,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "C_Podman_Upgraded_Legacy",
+            "A_Podman_Upgraded_Legacy"
+        ],
+        "alertType": 1,
+        "values": [
+            "Phishing email detector"
+        ]
+    },
+    {
+        "id": 6,
+        "valueType": 3,
+        "value": "[\"Podman_Upgraded_Legacy_Case_Stage_1\",\"Improvement\"]",
+        "slaPeriodType": 1,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 1,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "Default Environment",
+            "B_Podman_Upgraded_Legacy"
+        ],
+        "alertType": null,
+        "values": [
+            "Podman_Upgraded_Legacy_Case_Stage_1",
+            "Improvement"
+        ]
+    },
+    {
+        "id": 7,
+        "valueType": 4,
+        "value": "[\"High\"]",
+        "slaPeriodType": 2,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 2,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "*"
+        ],
+        "alertType": null,
+        "values": [
+            "High"
+        ]
+    },
+    {
+        "id": 8,
+        "valueType": 5,
+        "value": "[\"High\"]",
+        "slaPeriodType": 1,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 5.0,
+        "environments": [
+            "C_Podman_Upgraded_Legacy",
+            "B_Podman_Upgraded_Legacy",
+            "A_Podman_Upgraded_Legacy",
+            "Default Environment"
+        ],
+        "alertType": null,
+        "values": [
+            "High"
+        ]
+    }
+]
