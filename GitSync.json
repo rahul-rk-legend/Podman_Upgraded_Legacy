@@ -1,7 +1,9 @@
 {
     "system_version": "6.1.6.162",
     "readme_addons": {
-        "Integration": {},
+        "Integration": {
+            "MicrosoftAzureSentinel": "Adding a readme on"
+        },
         "Mappings": {
             " AzureSecurityCenter": "adding a readme on "
         },
