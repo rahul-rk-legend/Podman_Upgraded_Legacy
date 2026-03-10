@@ -19,8 +19,8 @@
             "IsMandatory": true,
             "Value": "https://api.vatcomply.com",
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1772442288513,
-            "ModificationTimeUnixTimeInMs": 1772442288513
+            "CreationTimeUnixTimeInMs": 1773138415247,
+            "ModificationTimeUnixTimeInMs": 1773138415247
         },
         {
             "IntegrationIdentifier": "SampleIntegration",
@@ -31,8 +31,8 @@
             "IsMandatory": false,
             "Value": null,
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1772442288513,
-            "ModificationTimeUnixTimeInMs": 1772442288513
+            "CreationTimeUnixTimeInMs": 1773138415247,
+            "ModificationTimeUnixTimeInMs": 1773138415247
         },
         {
             "IntegrationIdentifier": "SampleIntegration",
@@ -43,38 +43,38 @@
             "IsMandatory": false,
             "Value": "true",
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1772442288513,
-            "ModificationTimeUnixTimeInMs": 1772442288513
+            "CreationTimeUnixTimeInMs": 1773138415247,
+            "ModificationTimeUnixTimeInMs": 1773138415247
         }
     ],
     "IntegrationSupportedActions": [
         {
-            "Name": "Async Action Example",
-            "Description": "Example of an async action in Google SecOps. This action will not finish execution until timeout is reached or a case will have a tag provided in the \"Case Tag To Wait For\"",
-            "Id": 86,
-            "CreationTimeUnixTimeInMs": 1772442288525,
-            "ModificationTimeUnixTimeInMs": 1772442288525
-        },
-        {
-            "Name": "Enrich Entity Action Example",
-            "Description": "Example of action that works with entities and enriches them. This action runs on all Google SecOps entities provided in the parameter \"Entity Type\". This is NOT an Async action.",
-            "Id": 85,
-            "CreationTimeUnixTimeInMs": 1772442288525,
-            "ModificationTimeUnixTimeInMs": 1772442288525
+            "Name": "Simple Action Example",
+            "Description": "Example of a simple action in Google SecOps. This action is fetching data from \"api.vatcomply.com\" service based on the provided parameters. This is NOT an Async action. This action DOES NOT work with Google SecOps Entities.",
+            "Id": 125,
+            "CreationTimeUnixTimeInMs": 1773138415257,
+            "ModificationTimeUnixTimeInMs": 1773138415257
         },
         {
             "Name": "Ping",
             "Description": "Use the Ping action to test the connectivity to API Service.",
-            "Id": 84,
-            "CreationTimeUnixTimeInMs": 1772442288525,
-            "ModificationTimeUnixTimeInMs": 1772442288525
+            "Id": 126,
+            "CreationTimeUnixTimeInMs": 1773138415257,
+            "ModificationTimeUnixTimeInMs": 1773138415257
         },
         {
-            "Name": "Simple Action Example",
-            "Description": "Example of a simple action in Google SecOps. This action is fetching data from \"api.vatcomply.com\" service based on the provided parameters. This is NOT an Async action. This action DOES NOT work with Google SecOps Entities.",
-            "Id": 83,
-            "CreationTimeUnixTimeInMs": 1772442288525,
-            "ModificationTimeUnixTimeInMs": 1772442288525
+            "Name": "Enrich Entity Action Example",
+            "Description": "Example of action that works with entities and enriches them. This action runs on all Google SecOps entities provided in the parameter \"Entity Type\". This is NOT an Async action.",
+            "Id": 127,
+            "CreationTimeUnixTimeInMs": 1773138415257,
+            "ModificationTimeUnixTimeInMs": 1773138415257
+        },
+        {
+            "Name": "Async Action Example",
+            "Description": "Example of an async action in Google SecOps. This action will not finish execution until timeout is reached or a case will have a tag provided in the \"Case Tag To Wait For\"",
+            "Id": 128,
+            "CreationTimeUnixTimeInMs": 1773138415257,
+            "ModificationTimeUnixTimeInMs": 1773138415257
         }
     ],
     "Categories": [],
@@ -91,6 +91,6 @@
     "Type": 0,
     "Internal": false,
     "Id": 0,
-    "CreationTimeUnixTimeInMs": 1772442288513,
-    "ModificationTimeUnixTimeInMs": 1772442288513
+    "CreationTimeUnixTimeInMs": 1773138415247,
+    "ModificationTimeUnixTimeInMs": 1773138415247
 }
