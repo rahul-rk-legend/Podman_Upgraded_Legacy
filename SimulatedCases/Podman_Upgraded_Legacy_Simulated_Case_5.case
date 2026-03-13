@@ -1,0 +1,64 @@
+{
+    "cases": [
+        {
+            "creatorUserId": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": [],
+                        "parentEventId": 0,
+                        "deviceEventClassId": "Podman_Upgraded_Legacy_Simulated_Case_5",
+                        "startTime": "1773388912889",
+                        "endTime": "1773388912889",
+                        "deviceProduct": "Podman_Upgraded_Legacy_Simulated_Case_5"
+                    },
+                    "_rawDataFields": {
+                        "podman_Upgraded_Legacy_Simulated_Case_5": "Podman_Upgraded_Legacy_Simulated_Case_5",
+                        "deviceEventClassId": "Podman_Upgraded_Legacy_Simulated_Case_5",
+                        "deviceProduct": "Podman_Upgraded_Legacy_Simulated_Case_5",
+                        "name": "Podman_Upgraded_Legacy_Simulated_Case_5"
+                    },
+                    "environment": null,
+                    "sourceSystemName": null,
+                    "extensions": []
+                }
+            ],
+            "environment": null,
+            "sourceSystemName": "Podman_Upgraded_Legacy_Simulated_Case_5",
+            "ticketId": null,
+            "description": null,
+            "displayId": null,
+            "reason": null,
+            "name": "Podman_Upgraded_Legacy_Simulated_Case_5",
+            "deviceVendor": "Podman_Upgraded_Legacy_Simulated_Case_5",
+            "deviceProduct": "Podman_Upgraded_Legacy_Simulated_Case_5",
+            "startTime": 1773388912889,
+            "endTime": 1773388912889,
+            "type": 0,
+            "priority": -1,
+            "ruleGenerator": "Podman_Upgraded_Legacy_Simulated_Case_5",
+            "sourceGroupingIdentifier": null,
+            "playbookTriggerKeywords": [],
+            "extensions": [
+                {
+                    "key": "Podman_Upgraded_Legacy_Simulated_Case_5",
+                    "value": "Podman_Upgraded_Legacy_Simulated_Case_5"
+                }
+            ],
+            "attachments": null,
+            "isTrimmed": false,
+            "dataType": 1,
+            "sourceType": 1,
+            "sourceSystemUrl": null,
+            "sourceRuleIdentifier": null,
+            "siemAlertId": null,
+            "updatedFields": [],
+            "alertUpdateSupported": false,
+            "alertMetadata": {},
+            "dataAccessScope": null
+        }
+    ],
+    "type": 0,
+    "connectorIdentifier": null,
+    "debugOutput": null
+}
